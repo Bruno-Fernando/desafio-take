@@ -1,0 +1,17 @@
+{
+  "name": "dasafio-takeblip",
+  "version": "1.0.0",
+  "description": "API intermediária para desafio TakeBlip",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Fernando",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
